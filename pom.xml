@@ -13,7 +13,17 @@
             <artifactId>joda-time</artifactId>
             <version>2.10</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.Joalo</groupId>
+            <artifactId>MavenProject</artifactId>
+            <version>efacfd83e0</version>
+        </dependency>
     </dependencies>
-
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
 
 </project>
