@@ -16,7 +16,7 @@
         <dependency>
             <groupId>com.github.Joalo</groupId>
             <artifactId>MavenProject</artifactId>
-            <version>efacfd83e0</version>
+            <version>acaf6f6377</version>
         </dependency>
     </dependencies>
     <repositories>
