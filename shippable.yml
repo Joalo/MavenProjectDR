@@ -1,0 +1,15 @@
+type: runCI
+
+language: java
+
+jdk:
+  - oraclejdk8
+
+branches:
+  - master
+
+build:
+  ci:
+    - mvn test
+    - mvn install
+
